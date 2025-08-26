@@ -1,4 +1,4 @@
-# 📊 Econometrics Coding for Finance Students
+# 📊 Econometrics Coding for Finance
 
 A hands-on repository to learn and apply **econometrics with Python** and R**.  
 From **basic OLS** to **panel data, time series, and causal inference**,  
