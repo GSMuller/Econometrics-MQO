@@ -6,7 +6,7 @@ with real public datasets (Central Bank of Brazil, IBGE, FRED, etc.).
 
 ---
 
-## Goal
+## Goall
 - Provide a **step-by-step learning path** in applied econometrics.  
 - Build a portfolio of **reproducible Jupyter notebooks**.  
 - Show how econometrics connects to **finance and economic decision-making**.
